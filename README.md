@@ -1,2 +1,2 @@
 # allocator
-make a good mix with constraints
+Make a good mix with constraints
